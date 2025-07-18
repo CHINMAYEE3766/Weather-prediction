@@ -4,7 +4,7 @@
 
 ## 📁 Repository
 
-`CHINMAYEE766/Weather-prediction`
+`CHINMAYEE3766/Weather-prediction`
 
 ## 🛠 Technologies Used
 
